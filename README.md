@@ -1,5 +1,3 @@
-#Project description
-
 ### A few words about project:
 
 Project is an application written in Python, used to validate and save a user's login and password. It allows users to check the strength of their passwords, ensuring they meet specific criteria, such as length, presence of digits, uppercase and lowercase letters, and special characters. Additionally, the application securely stores validated passwords in a PostgreSQL database.
