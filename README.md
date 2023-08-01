@@ -11,7 +11,7 @@ Firstly, you need to clone my repo to my GitHub, and you need to use commande:
 <div class="termy">
 
 ```console
-git clone (https://github.com/PioBuczek/PasswordValidator.git)
+git clone https://github.com/PioBuczek/PasswordValidator.git
 ```
 </div> 
 
