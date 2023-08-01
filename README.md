@@ -54,7 +54,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-###More details
+### More details
 
 The main elements of project are:
 
