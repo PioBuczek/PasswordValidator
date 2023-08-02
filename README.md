@@ -34,7 +34,7 @@ You need to create Environment Variables. You can set up environment variables i
 4. Add the variable name (e.g., pv_dbname) and its corresponding value (e.g., my_database_name).
 5. Repeat the above step for all the environment variables listed above.
 
-After setting up the environment variables, create a .env file in the root directory of the project and add the environment variables there in the following format:
+If you don't want set up environment variables, you can create a .env file in the root directory of the project and add the environment variables there in the following format:
 
 <div class="termy">
 
@@ -49,7 +49,7 @@ pv_port=my_port
 </div> 
 
 
-If you don't want set up environment variables, you can create a .env file in the root directory of the project and add the environment variables there in the following format:
+Next, you need to create of virtual environments (venv). In the terminal, write the command that will create your venv and install library which are necessery:
 
 
 ```console
