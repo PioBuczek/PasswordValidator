@@ -1,5 +1,5 @@
 
-![GitHub](https://github.com/PioBuczek/PasswordValidator/assets/137912290/dc6ff733-99bc-4f58-88fe-9302bf57b1da)
+![ValidatorPassword](https://github.com/PioBuczek/PasswordValidator/assets/137912290/dd347673-238c-4ccf-b2e4-f056c8e7ec49)
 
 
 ### A few words about project:
